@@ -18,7 +18,7 @@ def monopoly_with_second_tier
 	  :railroads => {
 	    :pieces => 4,
 	    :names => {},
-	    :rent_in_dollar => {}
+	    :rent_in_dollars => {}
 	  }
 	}
 
@@ -29,7 +29,7 @@ def monopoly_with_third_tier
 	  :railroads => {
 	    :pieces => 4,
 	    :names => {},
-	    :rent_in_dollar => {}
+	    :rent_in_dollars => {}
 	  }
 	}
 
